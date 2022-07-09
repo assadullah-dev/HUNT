@@ -1,0 +1,1973 @@
+@media (min-width: 1400px){
+
+    /* ================Banner Part Star=============== */
+    .banner_button button::after {
+        height: 101%;
+    }
+    /* ================Banner Part End================ */
+
+    /* ==================Service Part Star============== */
+    .chain_dot img {
+        height: 677px;
+    }
+    /* ==================Service Part End================ */
+
+    /* ==================Testmonial Part Star============ */
+    .test_shape_img img {
+        height: 462px;
+    }
+    /* =================Testmonial Part End=============== */
+}
+
+@media (min-width: 1200px) and (max-width: 1399.99px){
+
+    /* ==================Banner Part Star============== */
+    .banner_button button::after {
+        height: 101%;
+    }
+    /* ==================Banner Part End=============== */
+    /* =================About Part Star================ */
+
+    .only_filter_three::after {
+        left: -64px;
+    }
+
+    .only_filter_two::after {
+        right: -63px;
+    }
+    /* =================About Part End================= */
+
+
+    /* =================Service Part Star================ */
+
+    .chain_dot img {
+        height: 748px;
+    }
+    /* =================Service Part End================= */
+
+
+    /* =================Testmonial Part Star============= */
+
+    .test_shape_img {
+        left: 83px;
+        top: -20px;
+    }
+    /* =================Testmonial Part End============== */
+
+
+    /* =================Pricing Part Star================ */
+
+    .pric_pricing {
+        width: 89px;
+        height: 89px;
+    }
+    /* =================Pricing Part End================= */
+}
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199.99px){
+
+    /* ===================Banner Part Star============ */
+
+    .banner_button button::after {
+        height: 101%;
+    }
+    /* ===================Banner Part End============= */
+
+    /* =================About Part Star================ */
+
+    .only_filter_two{
+        margin-right: 25px;
+    }
+
+    .only_filter_three{
+        margin-left: 25px;
+    }
+
+    .only_filter_three::after {
+        left: -51px;
+    }
+
+    .only_filter_two::after {
+        right: -60px;
+    }
+
+    /* =================About Part End================= */
+
+
+    /* =================Service Part Star============== */
+
+    .port_bottom_shape {
+        width: 101%;
+        height: 100px;
+    }
+
+    .chain_dot img {
+        height: 823px;
+    }
+
+    .chain_dot {
+        left: 50%;
+        top: 189px;
+    }
+    
+    /* =================Service Part End=============== */
+
+
+    /* =================Pricing Part Star============== */
+
+    .pric_pricing {
+        width: 89px;
+        height: 89px;
+    }
+    /* =================Pricing Part End=============== */
+
+
+    /* =================Testmonial Part Star=========== */
+
+    .test_shape_img {
+        left: 68px;
+        top: -20.5px;
+    }
+    /* =================Testmonial Part End============ */
+
+
+    /* =================Footer Part Star================ */
+
+    .footer_text_three::after {
+        display: none;
+    }
+
+    .footer_text_four{
+        margin-top: 30px;
+    }
+    /* =================Footer Part End================== */
+}
+
+@media (min-width: 768px) and (max-width: 991.99px){
+
+    /* ==================Nabvar Part Star================== */
+
+    .navbar{
+        position: static;
+        background: #000;
+    }
+
+    .toggle_bar i {
+        width: 60px;
+        text-align: center;
+        color: #fec600;
+        font-size: 22px;
+        cursor: pointer;
+        transition: all linear .1s;
+    }
+
+    .x_mark i {
+        color: #fec600;
+    }
+
+    .navbar-nav .nav-item .nav-link::after {
+        display: none;
+    }
+
+    .navbar-nav .nav-item .nav-link {
+        color: #fec600;
+        margin-bottom: 10px;
+    }
+
+    .navbar {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .banner_text p {
+        padding: 0 102px;
+    }
+    /* ==================Nabvar Part End=================== */
+
+    /* ===================Banner Part Star=============== */
+
+    .banner_shape {
+        display: none;
+    }
+
+    .next_arrow{
+        display: none !important;
+    }
+
+    .prev_arrow{
+        display: none !important;
+    }
+
+    .btn_one {
+        padding: 10px 20px;
+    }
+
+    .btn_two {
+        padding: 10px 34px;
+    }
+    /* ===================Banner Part End================ */
+
+
+    /* ===================About Part Star================ */
+
+    .header {
+        margin-top: 45px;
+    }
+
+    .only_filter_one::after {
+        display: none;
+    }
+
+    .only_filter_two::after {
+        display: none;
+    }
+
+    .only_filter_four::after {
+        display: none;
+    }
+
+    .only_filter_three::after {
+        display: none;
+    }
+
+    .only_filter_five::after {
+        display: none;
+    }
+
+    .about_one::after {
+        display: none;
+    }
+
+    .about_two::after {
+        display: none;
+    }
+
+    .about_four::after {
+        display: none;
+    }
+
+    .about_five::after {
+        display: none;
+    }
+
+    .about_one{
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    }
+
+    .about_two{
+        text-align: center !important;
+        margin-bottom: 45px;
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    }
+
+    .about_four{
+        text-align: center !important;
+        margin-top: 45px;
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    }
+
+    .about_five{
+        margin-bottom: 45px;
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    }
+
+    .about_one:hover{
+        filter: inherit;
+    }
+
+    .about_two:hover{
+        filter: inherit;
+    }
+
+    .about_four:hover{
+        filter: inherit;
+    }
+
+    .about_five:hover{
+        filter: inherit;
+    }
+    /* ===================About Part End================= */
+
+
+    /* ===================Portfolio Part Star============ */
+
+    .port_top_shape {
+        display: none;
+    }
+
+    .port_bottom_shape {
+        display: none;
+    }
+
+    #main_portfolio {
+        padding-top: 45px;
+        padding-bottom: 45px;
+    }
+
+    .port_one_img:hover img{
+        transform: inherit;
+    }
+
+    .port_two_img:hover img{
+        transform: inherit;
+    }
+
+    .port_three_img:hover img{
+        transform: inherit;
+    }
+
+    .port_four_img:hover img{
+        transform: inherit;
+    }
+
+    .port_five_img:hover img{
+        transform: inherit;
+    }
+
+    .port_six_img:hover img{
+        transform: inherit;
+    }
+
+    .port_seven_img:hover img{
+        transform: inherit;
+    }
+
+    .port_eight_img:hover img{
+        transform: inherit;
+    }
+
+    .port_overlay i {
+        color: #fec600;
+        font-size: 23px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        background: #000;
+    }
+
+    .port_overlay{
+        width: 0;
+        height: 0;
+        left: 35px;
+        top: 20px;
+        background: inherit;
+        transform: inherit;
+        transition: all linear .3s
+    }
+    /* ===================Portfolio Part End=============*/
+
+
+    /* ===================Service Part Star============== */
+
+    .serv_header{
+        margin-top: 45px;
+    }
+
+    .serv_right {
+        width: 55% !important;
+    }
+
+    .serv_mid {
+        width: 15% !important;
+    }
+
+    .serv_left {
+        width: 30% !important;
+    }
+
+    .innner_service:nth-child(even) .serv_content .serv_mid{
+        margin-left: 44px !important;
+        margin-right: 40px !important;
+    }
+
+    .innner_service:nth-child(odd) .serv_content .serv_mid{
+        margin-right: 44px;
+    }
+
+    .serv_right{
+        filter: drop-shadow(0 0 0.1rem crimson);
+    }
+
+    .main_service_part {
+        padding-top: 45px;
+        padding-bottom: 10px;
+    }
+
+    #main_service .slick-vertical .slick-slide {
+        display: block;
+        height: 300px !important;
+        border: inherit;
+    }
+
+    .serv_img{
+        background: #fec600;
+    }
+
+    .innner_service{
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .top_arrow{
+        display: none !important;
+    }
+
+    .bottom_arrow{
+        display: none !important;
+    }
+    /* ===================Service Part End================ */
+
+
+    /* ===================Testmonial Part Star============= */
+
+    .test_top_cursor_shape {
+        display: none;
+    }
+
+    .test_bottom_cursor_shape {
+        display: none;
+    }
+
+    .test_shape_img {
+        left: 77px;
+        top: -20px;
+    }
+
+    .test_shape_img img{
+        height: 403px !important;
+    }
+
+    #main_testimonial {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    .test_img_cont{
+        margin: 20px 0 !important;
+    }
+
+    /* ===================Testmonial Part End=============== */
+
+
+    /* ===================Pricing Part Star================= */
+
+    #main_pricing{
+        margin-bottom: 40px;
+    }
+
+    .pric_pricing {
+        width: 89px;
+        height: 89px;
+    }
+
+    .pric_header{
+        margin-top: 40px;
+    }
+
+    .pric_border::after {
+        border: 2px solid #fec600;
+    }
+
+    .pric_border::before {
+        border: 5px solid #ffffff;
+    }
+
+    .pric_pricing {
+        background: #fec600;
+    }
+
+    .pric_steap_two::after{
+        background: #fec600;
+    }
+
+    .pric_steap_two::before{
+        background: #fec600;
+    }
+
+    .pric_pricing h5{
+        color: #000;
+    }
+
+    .pric_pricing p{
+        color: #000;
+    }
+
+    .pric_one_text h3{
+        color: #000;
+    }
+
+    .pric_two_text a{
+        color: #000;
+    }
+
+    /* ===================Pricing Part End=================== */
+
+
+    /* ===================Counter Part Star================== */
+
+    .count_top_shape {
+        display: none;
+    }
+
+    .count_bottom_shape {
+        display: none;
+    }
+
+    #main_counter {
+        padding-top: 45px;
+        padding-bottom: 45px;
+    }
+
+    .counter_step_one h4{
+        transform: inherit;
+    }
+
+    .counter_step_one p{
+        transform: inherit;
+    }
+
+    .counter_step_one{
+        transform: inherit;
+    }
+
+    .counter_rotate{
+        transform: inherit;
+    }
+    /* ===================Counter Part End==================== */
+
+
+    /* ===================Team Part Star====================== */
+
+    .team_header{
+        margin-top: 45px;
+    }
+    
+    .team_img{
+        background: #fec600;
+    }
+
+    .team_overlay{
+        opacity: 1;
+        width: 100%;
+        height: 100%;
+        background: transparent;
+    }
+
+    .team_overlay i{
+        left: 0;
+        top: 0;
+    }
+
+    .team_overlay i {
+        left: 36px;
+        top: 21px;
+    }
+
+    .team_overlay i{
+        background: #000 !important;
+        color: #fec600 !important;
+    }
+
+    .team_icon{
+        opacity: 1;
+        height: 45px;
+    }
+
+    .team_icon i{
+        color: #fec600;
+        background: #000;
+        border-color: #fec600;
+    }
+    /* ===================Team Part End======================= */
+
+
+    /* ===================Partner Part Star=================== */
+
+    #main_partner {
+        padding-top: 45px;
+        padding-bottom: 45px;
+    }
+
+    .partner_top_shape {
+        display: none;
+    }
+
+    .partner_bottom_shape {
+        display: none;
+    }
+
+    .partner_img img{
+        transform: inherit;
+    }
+
+    .partner_rotate {
+        transform: inherit;
+    }
+
+    .partner_img{
+        transform: inherit;
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .partner_img{
+        border-color: #fec600;
+    }
+    /* ===================Partner Part End==================== */
+
+
+    /* ===================Footer Part star==================== */
+
+    .foot_img{
+        margin-top: 45px;
+    }
+
+    .footer_chain_shape{
+        display: none;
+    }
+
+    .footer_text_one::after{
+        display: none;
+    }
+
+    .footer_text_two::after{
+        display: none;
+    }
+
+    .footer_text_three::after{
+        display: none;
+    }
+
+    .footer_text_two{
+        margin-top: 20px;
+    }
+
+    .footer_text_three{
+        margin-top: 20px;
+    }
+
+    .footer_text_four{
+        margin-top: 20px
+    }
+
+    .foot_icon i{
+        background: #fec600;
+    }
+
+    /* ===================Footer Prt End===================== */
+}
+
+
+
+
+@media (min-width: 576px) and (max-width:767.99px){
+
+    /* ===================Navbar Part Star============== */
+
+    .navbar-nav .nav-item .nav-link::after {
+        display: none;
+    }
+
+    .navbar-nav .nav-link {
+        color: #fec600 !important;
+        margin-bottom: 10px;
+    }
+
+    .toggle_bar i {
+        color: #fec600;
+    }
+
+    .x_mark i{
+        color: #fec600;
+    }
+
+    .banner_button button::after {
+        height: 104%;
+    }
+
+    .navbar a img {
+        transform: scale(.9);
+    }
+    
+    .navbar {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        position: static;
+        background: #000;
+    }
+
+    /* ================Navbar Part End============= */
+
+
+    /* ==============Banner Part Star============== */
+
+    .next_arrow {
+        display: none !important;
+    }
+
+    .prev_arrow {
+        display: none !important;
+    }
+
+    .banner_shape {
+        display: none;
+    }
+
+    .banner_text h2 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .banner_text h1 {
+        font-size: 30px;
+        margin-bottom: 14px;
+    }
+
+    .btn_one {
+        padding: 8px 20px;
+    }
+
+    .btn_two {
+        padding: 8px 34px;
+    }
+
+    .banner_text p {
+        padding: 0 44px;
+    }
+
+    /* ===============Banner Part End============= */
+
+
+    /* =================About Part Star=============== */
+
+    .header {
+        padding: 0 37px;
+        margin-top: 40px;
+    }
+
+    .only_filter_one::after {
+        display: none;
+    }
+
+    .about_one::after {
+        display: none;
+    }
+
+    .only_filter_two::after {
+        display: none;
+    }
+
+    .about_two::after {
+        display: none;
+    }
+
+    .only_filter_three::after {
+        display: none;
+    }
+
+    .about_four::after {
+        display: none;
+    }
+
+    .only_filter_four::after {
+        display: none;
+    }
+
+    .about_five::after {
+        display: none;
+    }
+
+    .about_five{
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    }
+    
+    .about_one{
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    }
+
+    .about_two{
+        text-align: center !important;
+        margin-bottom: 55px;
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    }
+
+    .about_four{
+        text-align: center !important;
+        margin-top: 55px;
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    }
+
+    .about_two:hover{
+        filter: none;
+    }
+
+    .about_one:hover{
+        filter: none;
+    }
+
+    .about_four:hover{
+        filter: none;
+    }
+
+    .about_five:hover{
+        filter: none;
+    }
+
+    #about_us {
+        padding-bottom: 40px;
+    }
+    /* ==================About Part End============= */
+
+
+    /* ===============Portfolio Part Star=============== */
+
+    .port_top_shape {
+        display: none;
+    }
+
+    .port_overlay i {
+        color: #fec600;
+        font-size: 14px;
+        width: 32px;
+        height: 32px;
+        background: #000;
+        line-height: 32px;
+        left: -10px;
+        top: -3px;
+    }
+
+    .port_bottom_shape {
+        display: none;
+    }
+
+    #main_portfolio {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .port_overlay {
+        width: 0;
+        height: 0;
+        left: 44px;
+        top: 20px;
+        background: inherit;
+        transform: scale(1);
+    }
+
+    .port_one_img:hover img{
+        transform: inherit;
+    }
+
+    .port_two_img:hover img{
+        transform: inherit;
+    }
+
+    .port_three_img:hover img{
+        transform: inherit;
+    }
+
+    .port_four_img:hover img{
+        transform: inherit;
+    }
+
+    .port_five_img:hover img{
+        transform: inherit;
+    }
+
+    .port_six_img:hover img{
+        transform: inherit;
+    }
+
+    .port_seven_img:hover img{
+        transform: inherit;
+    }
+
+    .port_eight_img:hover img{
+        transform: inherit;
+    }
+    /* ================Portfolio Part End============== */
+
+
+    /* ================Service Part Star============== */
+
+    .serv_header{
+        margin-top: 40px;
+    }
+
+    .top_arrow{
+        display: none !important;
+    }
+
+    .bottom_arrow{
+        display: none !important;
+    }
+
+    .serv_left{
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .serv_mid{
+        width: 100%;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .serv_img{
+        background: #fec600;
+    }
+
+    .serv_right{
+        width: 100%;
+    }
+
+    .innner_service:nth-child(odd) .serv_content{
+        flex-direction: column;
+    }
+
+    .innner_service:nth-child(even) .serv_content {
+        flex-direction: column;
+    }
+
+    .innner_service:nth-child(even) .serv_content .serv_left h3{
+        text-align: center;
+    }
+
+    .innner_service:nth-child(odd) .serv_content .serv_left h3{
+        text-align: center;
+    }
+
+    .innner_service:nth-child(even) .serv_content .serv_right p{
+        text-align: center;
+    }
+
+    .innner_service:nth-child(odd) .serv_content .serv_right p{
+        text-align: center;
+    }
+
+    .serv_right:hover{
+        filter: none;
+    }
+
+    .serv_right{
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    }
+
+    .left_flater {
+        display: none;
+    }
+
+    .right_flater {
+        display: none;
+    }
+
+    .main_service_part {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    /* ================Service Part End================ */
+
+
+    /* ================Testmonial Part Star============= */
+
+    #main_testimonial {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .test_top_cursor_shape {
+        display: none;
+    }
+
+    .test_up{
+        display: none !important;
+    }
+
+    .test_down{
+        display: none !important;
+    }
+
+    #main_testimonial .align-items-center{
+        flex-direction: column-reverse;
+    }
+
+    .test_all_text::after {
+        position: absolute;
+        content: '';
+        left: 50%;
+        top: 96%;
+        transform: translateX(-50%);
+        border-right: 25px solid transparent;
+        border-left: 25px solid transparent;
+        border-top: 25px solid #eeeeee;
+        border-bottom: 25px solid transparent;
+    }
+
+    .test_img_all_content{
+        margin-top: 15px;
+    }
+
+    .test_bottom_cursor_shape {
+        display: none;
+    }
+    /* ================Testmonial Part End============== */
+
+
+    /* ================Pricing Part Star=============== */
+
+    #main_pricing{
+        margin-bottom: 40px;
+    }
+
+    .pric_header{
+        margin-top: 40px;
+    }
+
+    .pric_border::after {
+        border: 2px solid #fec600;
+    }
+
+    .pric_border::before {
+        border: 5px solid #ffffff;
+    }
+
+    .pric_pricing {
+        background: #fec600;
+    }
+
+    .pric_steap_two::after{
+        background: #fec600;
+    }
+
+    .pric_steap_two::before{
+        background: #fec600;
+    }
+
+    .pric_pricing h5{
+        color: #000;
+    }
+
+    .pric_pricing p{
+        color: #000;
+    }
+
+    .pric_one_text h3{
+        color: #000;
+    }
+
+    .pric_two_text a{
+        color: #000;
+    }
+
+    .pric_pricing {
+        width: 89px;
+        height: 89px;
+    }
+
+    /* ================Pricing Part End================ */
+    
+
+    /* ===============Counter Part Star=============== */
+
+    .count_top_shape {
+        display: none;
+    }
+
+    .count_bottom_shape {
+        display: none;
+    }
+
+    #main_counter {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .counter_step_one h4{
+        transform: inherit;
+    }
+
+    .counter_step_one p{
+        transform: inherit;
+    }
+
+    .counter_step_one{
+        transform: inherit;
+    }
+
+    .counter_rotate{
+        transform: inherit;
+    }
+
+    .counter_step_one{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    /* ===============Counter Part end================ */
+
+
+    /* ===============Team Part Star=================== */
+
+    .team_overlay i{
+        background: #000 !important;
+        color: #fec600 !important;
+    }
+
+    .team_header{
+        margin-top: 40px;
+    }
+
+    .team_overlay {
+        position: absolute;
+        left: -200px;
+        top: -104px;
+        width: 100%;
+        height: 100%;
+        background: transparent;
+        opacity: 1;
+    }
+
+    .team_img {
+        background: #fec600;
+    }
+
+    .team_icon {
+        width: 100%;
+        height: 45px;
+        opacity: 1;
+    }
+
+    .team_icon i{
+        color: #fec600 !important;
+        border-color: #fec600 !important;
+        background: #000 !important;
+    }
+    /* ===============Team Part End==================== */
+
+
+    /* ===============Partners Part Star================= */
+
+    .partner_top_shape {
+        display: none;
+    }
+
+    .partner_bottom_shape {
+        display: none;
+    }
+
+    .partner_img img{
+        transform: inherit;
+    }
+
+    .partner_rotate {
+        transform: inherit;
+    }
+
+    .partner_img{
+        transform: inherit;
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .partner_img{
+        border-color: #fec600;
+    }
+
+    #main_partner {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    /* ===============Partners Part End================== */
+
+
+    /* ===============Footer Part Star================== */
+
+    .footer_text_one::after{
+        display: none;
+    }
+
+    .footer_text_two::after{
+        display: none;
+    }
+
+    .footer_text_three::after{
+        display: none;
+    }
+
+    .footer_chain_shape {
+        display: none;
+    }
+
+    #main_footer{
+        padding-top: 40px;
+    }
+
+    .footer_text_two{
+        margin-top: 20px;
+    }
+
+    .footer_text_three{
+        margin-top:20px;
+    }
+
+    .footer_text_four{
+        margin-top: 20px;
+    }
+
+    .footer_all_text {
+        margin-top: 50px;
+    }
+
+    .foot_icon i{
+        background: #fec600;
+    }
+
+    .test_center{
+        text-align: center;
+    }
+
+    .test_content p {
+        padding: 0 14px;
+    }
+
+    /* ===============Footer Part end================== */
+}
+
+
+
+
+
+@media (min-width: 600px) and (max-width: 767.99px){
+    .banner_text h2 {
+        font-size: 36px;
+        margin-bottom: 16px;
+    }
+
+    .banner_text h1 {
+        font-size: 43px;
+        margin-bottom: 14px;
+    }
+}
+
+@media (min-width: 700px) and (max-width: 767.99px){
+
+    .toggle_bar i {
+        width: 0;
+        text-align: inherit;
+    }
+}
+
+
+
+@media (max-width: 575.99px){
+    .next_arrow {
+        display: none !important;
+    }
+
+    .prev_arrow {
+        display: none !important;
+    }
+
+    .banner_text h1 {
+        font-size: 30px;
+        margin-bottom: 4px;
+    }
+
+    .banner_text p {
+        font-size: 13px;
+        line-height: 16px;
+        padding: 0 32px;
+    }
+
+    .banner_text h2 {
+        font-size: 19px;
+        margin-bottom: 6px;
+    }
+
+    .navbar{
+        position: static;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        background: #000;
+    }
+
+    .banner_button button a {
+        font-size: 13px;
+    }
+
+    .banner_button button {
+        border: 1px solid #fff;
+    }
+
+    .btn_one {
+        padding: 2px 6px;
+    }
+
+    .btn_two {
+        padding: 2px 18px;
+    }
+
+    .banner_shape {
+        display: none;
+    }
+
+    .banner_button {
+        margin-top: 10px !important;
+    }
+
+    .ban_img img {
+        height: 172px;
+        object-fit: cover;
+    }
+
+    .navbar-nav .nav-item .nav-link::after {
+        display: none;
+    }
+
+    .header {
+        padding: 0 0;
+        margin-top: 30px;
+    }
+
+    .header h4 {
+        margin-bottom: 20px;
+    }
+
+    .navbar a img{
+        transform: scale(.7);
+    }
+
+    .only_filter_one::after,
+    .about_one::after,
+    .about_two::after,
+    .only_filter_two::after,
+    .about_four::after,
+    .only_filter_four::after,
+    .about_five::after,
+    .about_five::after,
+    .port_top_shape,
+    .port_bottom_shape {
+        display: none;
+    }
+
+    .port_header {
+        padding: 0;
+    }
+
+    #main_portfolio {
+        padding-top: 32px;
+        padding-bottom: 60px;
+    }
+
+
+    /* ============About Part Star=========== */
+
+    .about_two{
+        text-align: center !important;
+        margin-bottom: 40px;
+    }
+
+    .about_four{
+        text-align: center !important;
+        margin-top: 40px;
+    }
+
+    .about_five{
+        margin-bottom: 50px;
+    }
+
+    .top_arrow{
+        display: none !important;
+    }
+
+    .bottom_arrow{
+        display: none !important;
+    }
+
+    .about_two {
+        padding: 40px 26px;
+    }
+
+    .about_one {
+        padding: 40px 28px;
+    }
+
+    .about_four {
+        padding: 40px 36px;
+    }
+
+    .about_one:hover{
+        filter: inherit;
+    }
+
+    .about_one{
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    }
+
+    .about_two:hover{
+        filter: inherit;
+    }
+
+    .about_two:hover{
+        filter: inherit;
+    }
+
+    .about_two{
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    }
+
+    .about_five:hover{
+        filter: inherit;
+    }
+
+    .about_five{
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    }
+
+    .about_four:hover{
+        filter: inherit;
+    }
+
+    .about_four{
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    }
+
+    .about_five {
+        padding: 40px 26px;
+    }
+
+    /* =============About Part End============ */
+
+    /* ===============Portfolio Part Star============== */
+
+    .port_one_img:hover img{
+        transform: inherit;
+    }
+
+    .port_two_img:hover img{
+        transform: inherit;
+    }
+
+    .port_three_img:hover img{
+        transform: inherit;
+    }
+
+    .port_four_img:hover img{
+        transform: inherit;
+    }
+
+    .port_five_img:hover img{
+        transform: inherit;
+    }
+
+    .port_six_img:hover img{
+        transform: inherit;
+    }
+
+    .port_seven_img:hover img{
+        transform: inherit;
+    }
+
+    .port_eight_img:hover img{
+        transform: inherit;
+    }
+
+    .port_overlay i {
+        color: #fec600;
+        background: #000;
+        width: 32px;
+        height: 32px;
+        font-size: 17px;
+        line-height: 32px;
+        left: -11px;
+        top: -4px;
+    }
+
+    .port_overlay {
+        width: 0;
+        height: 0;
+        left: 45px;
+        top: 25px;
+        transform: scale(1);
+    }
+
+    .port_two_img{
+        margin-bottom: 1.5rem !important;
+    }
+
+    .port_six_img{
+        margin-bottom: 1.5rem !important;
+    }
+
+    .vbox-next span {
+        right: 15px;
+    }
+
+    .vbox-prev span {
+        left: 15px;
+    }
+    /* ================Portfolio Part End============== */
+
+
+    /* ============Testmonial Part Star============ */
+
+    .test_top_cursor_shape {
+        display: none;
+    }
+
+    .serv_left,
+    .serv_mid,
+    .serv_right{
+        width: 100%;
+    }
+
+    .serv_header{
+        margin-top: 30px;
+    }
+
+    .serv_header p {
+        padding: 0;
+    }
+
+    .innner_service:nth-child(2) .serv_content .serv_left{
+        margin-top: 10px;
+    }
+
+    .innner_service:nth-child(3) .serv_content .serv_left{
+        margin-top: 10px;
+    }
+
+    .innner_service:nth-child(4) .serv_content .serv_left{
+        margin-top: 10px;
+    }
+
+    .innner_service:nth-child(odd) .serv_content{
+        flex-direction: column;
+    }
+
+    .innner_service:nth-child(even) .serv_content{
+        flex-direction: column;
+    }
+
+    .innner_service:nth-child(odd) .serv_content .serv_mid{
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .innner_service:nth-child(even) .serv_content .serv_mid{
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .innner_service:nth-child(even) .serv_content .serv_left h3{
+        text-align: center;
+    }
+
+    .innner_service:nth-child(even) .serv_right p{
+        text-align: center;
+    }
+
+    .innner_service:nth-child(odd) .serv_right p{
+        text-align: center;
+    }
+
+    .innner_service:nth-child(even) .serv_content .serv_right p{
+        padding: 43px 10px;
+    }
+
+    .serv_right{
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    }
+
+    .serv_right:hover{
+        filter: inherit;
+    }
+
+    .serv_img{
+        background: #fec600;
+    }
+
+    .left_flater,
+    .right_flater{
+        display: none;
+    }
+
+    .serv_right p {
+        padding: 43px 15px;
+    }
+
+    .main_service_part {
+        padding-top: 0;
+        padding-bottom: 20px;
+        margin-top: 60px;
+    }
+
+    /* ===========Service Part End=========== */
+
+
+    /* ============Testmonial Part Star========== */
+
+    #main_testimonial .align-items-center{
+        flex-direction: column-reverse;
+    }
+
+    .test_all_text::after {
+        position: absolute;
+        content: '';
+        left: 50%;
+        top: 96%;
+        transform: translateX(-50%);
+        border-right: 25px solid transparent;
+        border-left: 25px solid transparent;
+        border-top: 25px solid #eeeeee;
+        border-bottom: 25px solid transparent;
+    }
+
+    .test_bottom_cursor_shape {
+        display: none;
+    }
+
+    .test_up{
+        display: none !important;
+    }
+
+    .test_down{
+        display: none !important;
+    }
+
+    .test_img_all_content{
+        margin-top: 10px;
+    }
+
+    .test_center{
+        text-align: center;
+    }
+
+    .test_content {
+        padding: 40px 18px 30px;
+    }
+
+    #main_testimonial {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    /* ==========Testmonial Part End=========== */
+
+
+    /* ============Pricing Part Star========= */
+
+    .pric_header {
+        margin-top: 30px;
+    }
+
+    .pric_header p {
+        padding: 0;
+    }
+
+    #main_pricing{
+        margin-bottom: 30px;
+    }
+
+    .pric_border::after {
+        left: 50%;
+        top: 60px;
+        width: 85px;
+        height: 85px;
+        border: 2px solid #fec600;
+    }
+
+    .pric_border::before {
+        left: 50%;
+        top: 62px;
+        width: 81px;
+        height: 81px;
+        border: 5px solid #ffffff;
+    }
+
+    .pric_pricing {
+        width: 72.5px;
+        height: 72.5px;
+        background: #fec600;
+        left: 50%;
+        top: 66px;
+    }
+
+    .pric_pricing h5 {
+        font-size: 21px;
+        margin-top: 14px;
+    }
+
+    .pric_steap_two::after {
+        width: 1650px;
+    }
+
+    .pric_one_text h3 {
+        padding-top: 23px;
+    }
+
+    .pric_steap_two::after{
+        background: #fec600;
+    }
+
+    .pric_steap_two::before{
+        background: #fec600;
+    }
+
+    .pric_pricing h5{
+        color: #000;
+    }
+
+    .pric_pricing p{
+        color: #000;
+    }
+
+    .pric_one_text h3{
+        color: #000;
+    }
+
+    .pric_two_text a{
+        color: #000;
+    }
+
+    .pric_text p {
+        line-height: 55px;
+    }
+
+    /* ===========Pricing Part End=========== */
+
+
+    /* ===========Counter Part Star========== */
+
+    #main_counter{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .counter_step_one h4{
+        transform: inherit;
+    }
+
+    .counter_step_one p{
+        transform: inherit;
+    }
+
+    .counter_step_one{
+        transform: inherit;
+    }
+
+    .counter_rotate{
+        transform: inherit;
+    }
+
+    .counter_step_one{
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .count_top_shape{
+        display: none;
+    }
+
+    .count_bottom_shape{
+        display: none;
+    }
+    /* ============Counter Part End========== */
+
+
+    /* ==========Team Part Star========= */
+
+    .team_overlay i{
+        background: #000 !important;
+        color: #fec600 !important;
+    }
+
+    .team_header{
+        margin-top: 30px;
+    }
+
+    .team_header p {
+        padding: 0;
+    }
+
+    .team_icon {
+        width: 100%;
+        height: 45px;
+        opacity: 1;
+    }
+
+    .team_img{
+        background: #fec600;
+    }
+
+    .team_overlay{
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(253, 198, 0, 0);
+        opacity: 1;
+    }
+
+    .team_overlay i {
+        left: 14%;
+        top: 14%;
+    }
+
+    .team_icon i{
+        color: #fec600;
+        background: #000;
+        border-color: #fec600;
+    }
+    /* ========Team Part End========= */
+
+
+    /* =========Partner Part Satr======== */
+
+    .partner_top_shape {
+        display: none;
+    }
+
+    .partner_img{
+        transform: inherit;
+    }
+
+    .partner_img img{
+        transform: inherit;
+    }
+
+    .partner_rotate {
+        transform: inherit;
+    }
+
+    .partner_img{
+        border-color: #fec600;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .partner_bottom_shape {
+        display: none;
+    }
+
+    #main_partner {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    /* ===========Partner Part End========= */
+
+
+    /* ==========Footer Part End========= */
+
+    .footer_text_one::after{
+        display: none;
+    }
+
+    .footer_text_two::after {
+        
+        display: none;
+    }
+
+    .footer_text_three::after {
+        display: none;
+    }
+
+    .footer_chain_shape {
+        display: none;
+    }
+
+    .foot_img{
+        margin-top: 30px;
+    }
+
+    .footer_all_text {
+        margin-top: 60px;
+    }
+
+    .foot_icon i {
+        color: #000;
+        font-size: 20px;
+        width: 40px;
+        height: 40px;
+        background: #fec600;
+        line-height: 40px;
+        margin: 0 7px;
+    }
+
+    .footer_text_two i{
+        margin-top: 15px;
+    }
+
+    .footer_text_three i{
+        margin-top: 15px;
+    }
+
+    .footer_text_four i{
+        margin-top: 15px;
+    }
+
+    /* ==========Footer Part End======== */
+
+}
+
+@media (min-width: 460px) and (max-width: 575.99px){
+    .pric_steap_two::after {
+        width: 1720px;
+    }
+}
+
+
+@media (min-width: 380px) and (max-width: 575.99px){
+
+    .port_short{
+        width: 50%;
+    }
+
+    .port_overlay i {
+        font-size: 18px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        color: #fec600;
+        background: #000;
+        left: -3px;
+        top: -4px;
+    }
+
+    .port_overlay {
+        width: 0;
+        height: 0;
+        left: 30px;
+        top: 20px;
+        transform: scale(1);
+    }
+
+    #main_portfolio .row {
+        --bs-gutter-x: 0.5rem;
+    }
+
+    #main_portfolio .port_one_img{
+        margin-bottom: 0.5rem !important;
+    }
+
+    #main_portfolio .port_two_img{
+        margin-bottom: 0.5rem !important;
+    }
+
+    #main_portfolio .port_three_img{
+        margin-bottom: 0.5rem !important;
+    }
+
+    #main_portfolio .port_five_img{
+        margin-bottom: 0.5rem !important;
+    }
+
+    #main_portfolio .port_seven_img{
+        margin-bottom: 0.5rem !important;
+    }
+}
